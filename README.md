@@ -53,6 +53,6 @@
 ## 📫 Contato
 
 - GitHub: [IsaacRoque23](https://github.com/IsaacRoque23)
-- LinkedIn: Isaac Roque de Lima
+- LinkedIn: [Isaac Roque de Lima](https://www.linkedin.com/in/isaacroque/)
 
 ---
