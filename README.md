@@ -56,7 +56,3 @@
 - LinkedIn: Isaac Roque de Lima
 
 ---
-
-<p align="center">
-  <i>Construindo, aprendendo e evoluindo através da tecnologia. 🚀</i>
-</p>
